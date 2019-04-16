@@ -1,4 +1,4 @@
 # Limpa-PC
-Bat to clean temp computer files 
+Bat to clean temp computer files. 
 
-Download file and run as administrator
+Download file and run as administrator.
