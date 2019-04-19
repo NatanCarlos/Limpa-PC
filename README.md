@@ -1,4 +1,4 @@
 # Limpa-PC
 Bat to clean temp computer files. 
 
-Download file and run as administrator.
+Download limpa_pc.bat and run as administrator.
