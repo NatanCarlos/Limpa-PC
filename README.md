@@ -1,4 +1,4 @@
 # Limpa-PC
-Bat to clean temp computer files. 
+Bat para limpar arquivos temporários do computador. 
 
-Download limpa_pc.bat and run as administrator.
+Baixe o arquivo limpa_pc.bat e execute como administrador
